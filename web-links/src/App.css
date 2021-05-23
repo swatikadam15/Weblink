@@ -1,0 +1,50 @@
+body {
+	background:#141414;
+	color: #ffffff;
+}
+
+
+.main-Wrapper{
+  display: flex;
+  flex-wrap: wrap;
+   
+}
+ .main-Wrapper > div {
+  margin-right:2rem; 
+  margin-bottom: 25px;
+
+ }
+ .List{
+	 border-top: 1px solid #fff;
+	 padding: 10px 0;
+	 display:flex;
+
+	
+ }
+ .List:last-child{
+	 border-bottom: 1px solid #fff;
+ }
+ .List  h2{
+		 padding-right: 10px;
+		 margin:0;
+		 font-size: 20px;
+		
+}
+.List  span{
+	font-size: 20px;
+}
+
+.mB{
+	margin-bottom:35px;
+}
+.w50{
+	width:50%;
+}
+
+/* .Md{
+	content: ' \002E';
+} */
+  
+.w51{
+margin-bottom: 5px;
+}
